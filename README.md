@@ -1,4 +1,4 @@
-### Hi, my name is [Alex] and I'm a beginner {Front-End Developer}.
+### Hi, my name is [Alex] and I'm a beginner {Front-End Developer}
 
 <!--
 **khozhainov-aleksandr/khozhainov-aleksandr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
