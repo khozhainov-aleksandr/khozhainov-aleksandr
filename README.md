@@ -1,4 +1,4 @@
-### Hi, my name Alex and I love JS 🥰
+### Hi, my name Alex and I from in Odessa ⚓️
 
 <!--
 **khozhainov-aleksandr/khozhainov-aleksandr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
