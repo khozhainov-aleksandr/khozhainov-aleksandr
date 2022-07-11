@@ -1,16 +1,33 @@
-### Hi, my name Aleksandr and I from in Odessa ⚓️
+## I'm from Ukraine 💛💙
 
-<!--
-**khozhainov-aleksandr/khozhainov-aleksandr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
+<br>
 
-Here are some ideas to get you started:
+Header
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+ 
+
+> ☎️ My **Contacts**:
+Telephone:
+
+My portfolio:
+https://khozhainov- aleksandr.github.io/
+
+Telegram:
+@Aleksandr_Khozhainov
+
+Email:
+khozhainov.aleksandr@gmail.com
+
+
+Linkedin:
+aleksandr-khozhainov
+
+GitHub:
+khozhainov-aleksandr
+
+CodeWars:
+Aleksandr Khozhainov
+
+
+> 🖥 My **Skills**:
