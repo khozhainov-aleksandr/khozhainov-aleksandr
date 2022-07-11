@@ -1,9 +1,5 @@
-## I'm from Ukraine 💛💙
-
----
-<br>
-
 ![Ukraine](https://github.com/khozhainov-aleksandr/khozhainov-aleksandr/blob/master/assets/flag_gerb_ukraina.jpg)
+
 
 
 > ☎️ My **Contacts**:
