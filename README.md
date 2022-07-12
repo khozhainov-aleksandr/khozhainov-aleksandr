@@ -11,7 +11,7 @@
 ![Telegram](https://img.shields.io/badge/@Aleksandr_Khozhainov-313131?style=for-the-badge&logo=Telegram)
 ![Gmail](https://img.shields.io/badge/khozhainov.aleksandr@gmail.com-313131?style=for-the-badge&logo=Gmail)
 
-![Linkedin](https://img.shields.io/badge/Linkedin-313131?style=for-the-badge&logo=Linkedin&logoColor=0077B5)
+[![Linkedin](https://img.shields.io/badge/Linkedin-313131?style=for-the-badge&logo=Linkedin&logoColor=0077B5)](https://www.linkedin.com/in/aleksandr-khozhainov-359172165/)
 [![Facebook](https://img.shields.io/badge/Facebook-313131?style=for-the-badge&logo=Facebook)](https://www.facebook.com/Aleksandr.Khozhainov)
 [![Instagram](https://img.shields.io/badge/Instagram-313131?style=for-the-badge&logo=Instagram)](https://www.instagram.com/alex_kh28/)
 [![CodeWars](https://img.shields.io/badge/CodeWars-313131?style=for-the-badge&logo=CodeWars&logoColor=B1361E)](https://www.codewars.com/users/Aleksandr%20Khozhainov)
